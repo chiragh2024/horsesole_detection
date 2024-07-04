@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image_0308.jpg</filename>
+	<path>C:\Users\admin2\horsesole_detection\datatset\images\image_0308.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>horsesole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>57</ymin>
+			<xmax>209</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>
